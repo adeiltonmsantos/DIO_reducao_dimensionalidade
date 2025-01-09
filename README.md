@@ -1,6 +1,6 @@
 # DIO_reducao_dimensionalidade
 
-Projeto de redução de dimensionalidades de imagens implementado no Google Colab para redução de dimensionalidades de imagens. Este projeto atende o que foi solicitado no Desafio do curso da **DIO: BairesDev - Machine Learnign Practicioner**
+Projeto de redução de dimensionalidades de imagens implementado no Google Colab. Este projeto atende o que foi solicitado no Desafio do curso da **DIO: BairesDev - Machine Learnign Practicioner**
 
 Foram utilizados os módulos:
 - **files** de **google.colab**: para exibir um controle para upload da imagem desejada
